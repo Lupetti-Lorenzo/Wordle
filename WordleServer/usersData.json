@@ -1,0 +1,117 @@
+{
+  "lo": {
+    "username": "lo",
+    "password": "lu",
+    "partiteGiocate": 12,
+    "partiteVinte": 12,
+    "streakVittorie": 12,
+    "streakVittoreMax": 12,
+    "percentualeVittorie": 0,
+    "guessDistribution": [
+      0,
+      7,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  "lore": {
+    "username": "lore",
+    "password": "lupetti",
+    "partiteGiocate": 0,
+    "partiteVinte": 0,
+    "streakVittorie": 0,
+    "streakVittoreMax": 0,
+    "percentualeVittorie": 0,
+    "guessDistribution": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "loreee": {
+    "username": "loreee",
+    "password": "lupeee",
+    "partiteGiocate": 0,
+    "partiteVinte": 0,
+    "streakVittorie": 0,
+    "streakVittoreMax": 0,
+    "percentualeVittorie": 0,
+    "guessDistribution": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "lorenzo": {
+    "username": "lorenzo",
+    "password": "lu",
+    "partiteGiocate": 0,
+    "partiteVinte": 0,
+    "streakVittorie": 0,
+    "streakVittoreMax": 0,
+    "percentualeVittorie": 0,
+    "guessDistribution": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "lor": {
+    "username": "lor",
+    "password": "lup",
+    "partiteGiocate": 5,
+    "partiteVinte": 5,
+    "streakVittorie": 5,
+    "streakVittoreMax": 5,
+    "percentualeVittorie": 0,
+    "guessDistribution": [
+      0,
+      3,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
